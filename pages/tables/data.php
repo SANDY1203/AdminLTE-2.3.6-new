@@ -430,7 +430,7 @@
           </a>
           <ul class="treeview-menu">
             <li><a href="simple.html"><i class="fa fa-circle-o"></i> Simple tables</a></li>
-            <li class="active"><a href="data.html"><i class="fa fa-circle-o"></i> Data tables</a></li>
+            <li class="active"><a href="data.php"><i class="fa fa-circle-o"></i> Data tables</a></li>
           </ul>
         </li>
         <li>
